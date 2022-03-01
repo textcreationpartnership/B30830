@@ -1,0 +1,173 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An epistle of love to Friends in the womens meetings in London, &amp;c. to be read among them in the fear of God.</title>
+            <author>Townsend, Theophila.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B30830</idno>
+            <idno type="STC">Wing T1987A</idno>
+            <idno type="EEBO-CITATION">18719324</idno>
+            <idno type="OCLC">ocm 18719324</idno>
+            <idno type="VID">205392</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B30830)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 205392)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1662:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An epistle of love to Friends in the womens meetings in London, &amp;c. to be read among them in the fear of God.</title>
+                  <author>Townsend, Theophila.</author>
+                  <author>Fox, George, 1624-1691. Testimony out of the Old Testament and New of the Lord sending his prophets to declare his judgments against the disobedience and pride of the Jews.</author>
+               </titleStmt>
+               <extent>5 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1680]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed at end: Theophila Townsend.</note>
+                  <note>Place and date of publication suggested by Wing.</note>
+                  <note>"A testimony out of the Old Testament and New of the Lord sending his prophets to declare his judgments against the disobedience and pride of the Jews" (p. 6-8), signed: G.F.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  England --  Pastoral letters and charges.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Anne Simpson</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:205392:1"/>
+            <pb facs="tcp:205392:1"/>
+            <head>AN Epiſtle of Love TO <hi>Friends in the Womens Meetings in</hi> London, &amp;c. <hi>To be read among them in the fear of</hi> God.</head>
+            <p>DEar Friends and Siſters in <hi>Chriſt Jeſus</hi> to you is the ſalu<g ref="char:EOLhyphen"/>tation of my true and ſincere Love, in the ever bleſſed pure and precious truth of our God: and to you is my Heart open, in the tender love of our heavenly Fa<g ref="char:EOLhyphen"/>ther, who hath reached unto us, and lifted up the light of his countenance upon us, and cauſed the ever bleſſed light, of his everlaſting day to ſhine among us; and hath made known the riches of his grace unto us, in order to fit and prepare us for his own work and ſervice: To you my wellbeloved in the Lord, doth my Love and Life reach at this time; to you that are given up to ſerve the Lord his Truth and People; with chearfullneſs of Heart and readineſs of mind, according to the meaſure of his grace committed unto you; and the breathings of my Soul unto the God of my Life is, that he may entich you all with his heavenly Gifts, and Graces, that you may be ſtrong in the power of his might, and made able to perform the work and ſervice of the Lord, in the Church of <hi>Chriſt</hi> in this your day, and ſerve up your Generation in faithfulneſs unto the end: <hi>Oh!</hi> my tender Friends, and well-beloved Siſters in the Lord, having a ſence of your great Loſs, in parting with one ſo dearly beloved of the Lord, and well eſteemed among his people <hi>Anne Whitehead,</hi> who was a worthy Inſtrument, and faithful Labourer in the Church of <hi>Chriſt,</hi> one
+<pb facs="tcp:205392:2"/>whom the Lord had furniſhed with his heavenly Wiſdom, and ſo filled with divine vertues, that ſhe was able and ready to be help<g ref="char:EOLhyphen"/>ful in all concerns in the Church of <hi>Chriſt,</hi> both Spiritual and Temporal; this I was ſenſible of by that acquaintance I had with her: She was indeed one of the Lords worthies; who hath taken her unto himſelf; and he was right worthy of her; who had made her worthy of ſo bleſſed a work, and honourable a ſervice in the Church of <hi>Chriſt:</hi> who bleſſed her labour and made i<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> effectual for good (as is well known to you that have been Eye witneſſes, and converſant with her) as by the many living teſti<g ref="char:EOLhyphen"/>monys from the faithful Brethren and Siſters is demonſtrated, and I had true unity with you in it, and I was refreſhed, and my heart was truely tendered, and broken before the Lord; and I was af<g ref="char:EOLhyphen"/>fected with your care and diligence to leave it upon Record, that her worthineſs may not be forgotten, nor her faithfulneſs be Bu<g ref="char:EOLhyphen"/>ried in the Grave of Oblivion; I ſay my heart was affected in the reading thereof, and the deſire of my Soul is, that we that are left behind, may walk in the ſame Path, and that her paſt publick reſtimony that ſhe bore among you, may not be forgotten by you, but that it may be had in remembrance; for it was ſeaſonable, and needful, <hi>viz.</hi> Againſt Pride and Vanity and ſuperfluity in many of the younger ſort that profeſs the Holy Truth: which is a grief to the righteous to ſee how it abounds among ſuch in the City of <hi>London,</hi> and ſome other places: My ſpirit have been long grieved, and my Soul bowed down under the weight of it: but conſidering how many worthy Inſtruments attended your Meet<g ref="char:EOLhyphen"/>ings, and not doubting but the Lord hath put it into their hearts to teſtifie againſt it, I was willing to be ſilent, and bear the burthen and mourn in ſecret to ſee how Pride and Vanity notwith<g ref="char:EOLhyphen"/>ſtanding hath taken place in many that profeſs the truth; ſo the true deſire of my Soul is, that thoſe concerned may lay it to heart, and be bowed down, and caſt of that which cauſeth the weights, and brings the heavy burthens upon the honeſt hearted, and grieves the Holy ſpirit of the Lord, which is the Sin that ſo eaſily beſets, to wit Pride, and is ſo delightful to the young people, that the Enemy hath captivated many and taken many in that Snare, to the diſhonour of God and his precious truth which they profeſs; and that to the hurt of their own Souls; therefore in bowels of tender Love, I exhort you all whom it may concern, to whom this may
+<pb n="3" facs="tcp:205392:2"/>come in the City of <hi>London, &amp;c.</hi> To incline your hearts to ſeek the Glory of God and the peace and welfare of your own Souls; and the advancement of the Holy truth that you profeſs, and are convinced of, which the God of all our mercies hath made known unto you: let your adorning be that comely ornament of a meek and quiet ſpirit, like Holy women profeſſing godlineſs with good works: <hi>Oh!</hi> that I might prevail with you to follow the council of the Lord, and his ſervants, and mind the light of <hi>Chriſt</hi> in your own hearts and Conſciences, to be guided by it into plainneſs and hu<g ref="char:EOLhyphen"/>mility of mind, that you might not be evil examples to others round about you; for the Eyes of many in the Nation are upon you, and thoſe that are inclined to take liberty in Pride and vanity, and ſuperfluity, take ſtrength by you; and when ſuch have been cautioned and admoniſhed to plainneſs as be<g ref="char:EOLhyphen"/>comes the truth, they turn it upon us, and ſay, This is little to what Friends wear in <hi>London:</hi> (which is too true on ſome) therefore I intreat you to deny your ſelves, and take up the Croſs and follow <hi>Chriſt Jeſus,</hi> in the ſtreight and narrow way that leads to Life and peace: And you that are Elders in the Church and Mothers in <hi>Iſrael,</hi> I intreat you watch over the younger for good, and be good patterns and Holy examples to them, and uſe all diligence to admoniſh, and counſel, with much tenderneſs in the wiſdom and power of God, and judge down Pride and vanity, eſpecially in your own Families, and give no liberty to your Children to pleaſe them in any thing that is contrary to truth: when they ſhall ſay to you ſuch a one have a Chain of Gold, why may not I? or any other needleſs thing that may give occaſion to the enemies of truth, to point at it, and ſay the Quakers are as ready to run into any new faſhion as we, and ſo cauſe the weak to ſtumble, and turn the ſimple out of the way: therefore my dear Friends and Siſters, you that have a concern upon you for the Church, and are Elders in the Family of God, ſtand up in the power and Holy authority of God, to find the Babiloniſh garment, and the wedge of Gold, that hinders <hi>Iſraels</hi> proſperity, and put it out of the Camp; away with the naked Necks and Backs, the needleſs pinches and Ruffles the high dreſſes upon the Head, and tiring the Hair wanton Eyes walking and mincing as they go, and all ſuperfluity that diſhonours God and
+<pb n="4" facs="tcp:205392:3"/>his truth; leaſt inſtead of a Girdle he ſend a Rent; and inſtead of well-ſet Hair Baldneſs, and inſtead of a Stomacher a girding of Sackcloth, and burning inſtead of beauty, except you repent: therefore, I intreat you, receive it in Love, as a warning to you, laying aſide all ſuperfluity, and receive with meekneſs the ingrafted Word which is able to ſave you out of all thoſe things (which grieves the good Spirit of the Lord:) and build you up in that moſt holy Faith which purifies the Heart, and gives Victory over the World. Theſe things have been a grief unto me, and lay as a weight upon me for a long time: and when I heard the teſtimony of our dear Siſter, which may be taken as the Dying words of ſo worthy an Inſtrument; it, I ſay, was more to be obſerved, and minded by thoſe concerned. And it aroſe in my Heart, in the open<g ref="char:EOLhyphen"/>ings of Life, now it is a ſeaſonable time for me to eaſe my Spirit, and clear my ſelf, to back or revive, this the laſt publick teſti<g ref="char:EOLhyphen"/>mony of our dear Siſter, that it may not be forgotten by any that are concerned: ſo my dear Friends, I have this to ſay to you <gap reason="illegible" resp="#MURP" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>t love the Lord above all, and are given up in his ſervice, in the works of Piety and Charity; you are the Choſen Veſſels of the Lord, who will be with you, notwithſtanding he hath removed and taken away ſuch a faithful Labourer, and fellow helper from among you, yet the Lord is with you my tender Friends, yea, I ſay, <hi>Iſraels</hi> God is among you, and he will give you wiſdom and ſtrength, as you wait upon him; therefore be incouraged in the bleſſed work of the Lord, unto which you are called, and be bold and valiant for the truth, to withſtand all the falſe pretend<g ref="char:EOLhyphen"/>ers to love and unity, and are in a dividing Spirit, and ſecretly endeavouring, to diſturb the Churches peace. And ſtand up in the ſtrength of the Lord, and in the power of his might againſt all ſuch which would deſtroy your comly Order (into which the Lord hath gathered you) and bring all into Confuſion as they are: and as your Hearts are inclined to this good work, the Lord who is rich in mercy and goodneſs, he will fill your Qivers with polliſhed Arrows, and cauſe your Bow to abide in ſtrength, and ſo furniſh you with his heavenly vertues to inable you for his work and ſervice, that he calls you to; that hard things will be made <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aſie unto you; Ye beloved of the Lord, Gods power will ſurround you, and his Salvation will be as Walls and Bulwarks about you, and his pure Powerful preſence will uphold
+<pb n="5" facs="tcp:205392:3"/>you, and preſerve you unto the end, <hi>Amen.</hi> So to the grace of God, I recommend you, that is able to keep both you and me, and all his Flock and Family every where, in the unity of the Spirit, which is the bond of true peace, and in the Holy fellowſhip of the Goſpel of peace: where there is no ſeperation, for we have large experience of his goodneſs and mercies and favours; for our God hath done great things for us even beyond utterance; what Tongue is able to declare, his notable Acts, and his wonderful doings <gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ong his faithful people? Oh! who can but praiſe him, and mag<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>f;ie his glorious name and return thankſgiving with <hi>Hallelujah</hi> 
+               <gap reason="illegible" resp="#MURP" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>r all, for he is worthy ſaith my Soul, who am your Friend and <gap reason="illegible" resp="#MURP" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>r in the Lord <hi>Jeſus Chriſt,</hi> and have thus far cleared my Con<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nce and eaſed my Spirit.</p>
+            <closer>
+               <signed>Theophila Townſend.</signed> 
+               <hi>Bear with my plainneſs and homely expreſſi Charity make way for it, for the truths ſake.</hi>
+            </closer>
+         </div>
+         <div type="text">
+            <pb n="6" facs="tcp:205392:4"/>
+            <head>A Teſtimony out of the Old <hi>Teſtament</hi> and <hi>New</hi> of the Lord ſending his Prophets to declare his Judgments againſt the Diſobedience and Pride of the <hi>Jews;</hi> and how his Judgments were Fulfilled upon them that did not Repent; and how the <hi>Apoſtle</hi> did ad<g ref="char:EOLhyphen"/>moniſh and Reprove ſuch as went into Pride and the Faſhions of the World.</head>
+            <p>THE Lord ſaith, <hi>Becauſe the Daughters of</hi> Sion <hi>are Haughty, and walk with ſtretched forth Necks and wanton Eyes, walk<g ref="char:EOLhyphen"/>ing and Mincing as they go, and making a Tinkling with their Feet; therefore the Lord will ſmite with a Scab the Crown of the Head of the Daughters of</hi> Sion; <hi>and the Lord will diſcover their Secret Parts; in that Day the Lord will take away the Bravery of their Tinkling Ornament about their Feet, and their Caules, and their Round Tyres like the Moon, the Chains, (Mark the Chains) and the Brace<g ref="char:EOLhyphen"/>lets, and the Mufflers, the Bonnets and the Ornaments of the Legs, and the Head-bonds and the Tablets, and the Ear-rings, the Rings, and Noſe-Jewels, the Changable Suits of Apparel, and the Mantles and the Wimples, and the Criſping-pins, the Glaſſes, and the fine Linnen, and the Hoods, and the Veils; and it ſhall come to paſs, that inſtead of Sweet Smell, there ſhall be Stink, and inſtead of a Girdle, a Rent, and inſtead of a wel-ſet Hair Baldneſs, and inſtead of a Stoma<g ref="char:EOLhyphen"/>cher, a girding of Sack-cloath, and Burning inſtead of Beauty Thy Men ſhall fall by the Sword, and thy Mighty in the War, and her Gates ſhall Lament and Mourn, and ſhe being Deſolate, ſhall ſit upon the Ground,</hi> Iſai. 3.16. to the End: And you may Read in 2. <hi>Kings</hi> 17. how that the Children of <hi>Iſrael</hi> were carried into Captivity into <hi>Aſſyria,</hi> for the King of <hi>Aſſyria</hi> he Beſieged <hi>Sa<g ref="char:EOLhyphen"/>maria,</hi> and after three years Beſieging, he took it and carried away the ten Tribes, Children of <hi>Iſrael,</hi> into the Land of <hi>Aſſyria.</hi> And <hi>Iſaiah</hi> according to the Word of the Lord, went to the Propheteſs, and ſhe Conceived and bore a Son, <hi>&amp;c.</hi>
+               <pb n="7" facs="tcp:205392:4"/>And the Lord ſaid, <hi>Before the Child ſhould have the Knowledge to Cry, My Father and my Mother, the Riches of</hi> Damaſcus, <hi>and the Spoil of</hi> Samaria, <hi>ſhall be taken away by the King of</hi> Aſſyria, Iſai. 8.3, 4.</p>
+            <p>Now here you may ſee what a Deſtruction came upon <hi>Samaria</hi> and the <hi>Jews,</hi> becauſe of their Rebellion, and Diſobedience, and their Haughtineſs and Pride, as <hi>Iſaiah</hi> cried againſt in Chap. 3. And then, What became of all their Haughtineſs and Pride, and their Mincing, and their Tinkling with their Feet, and their Chains, and Bracelets, and Jewels, and Round Attire, with their Glaſſes, and Hoods, and Veils, when they were driven away by Droves by the King of <hi>Aſſyria,</hi> into Captivity, into <hi>Aſſyria,</hi> out of their own Land, Houfes and Cities? Then <hi>Iſaiah</hi>'s Prophecy was fulfilled upon thoſe Haughty and Proud <hi>Jews;</hi> and did not <hi>Nebuchadnezzer</hi> afterwards carry away the two Tribes, and deſtroy <hi>Jeruſalem,</hi> becauſe of their Diſobedience, Rebellion, Haughtineſs, and Pride, who would not regard the Lord, nor his Prophets, therefore the Lord ſuffered them to be led away Priſoners, out of their own Houſes, Cities, and Land, into <hi>Babylon,</hi> ſo ſtripp'd them of their Pride, and cauſed them to be carried away into ſtrange Countries; ſo was not <hi>Jeremiah</hi>'s Prophecy fulfilled upon them?</p>
+            <p>The Lord ſaith, <hi>Behold the day cometh that ſhall burn as an Oven, and all the Proud, yea, all that do Wickedly, ſhall be as Stubble; and the Day that cometh ſhall burn them up,</hi> ſaith the Lord of Hoſt, <hi>that it ſhall leave them neither Root nor Branch; But unto them that fear my Name, ſhall the Son of Righteouſneſs ariſe, with healing in his Wings, and ye ſhall go forth and grow up as the Calves in the Stall,</hi> Mal. 4.1, 2.</p>
+            <p>
+               <hi>Therefore it is good for all to keep out of Pride and Wickedneſs in Humility, leſt they be Burnt up.</hi>
+            </p>
+            <p>And the Apoſtle commanded, <hi>that Women adorn themſelves in modeſt Apparel with Shamefacedneſs and Sobriety, not with Brodered Hair, or Gold or Pearls, or Coſtly Array, but that which becometh Women profeſſing Godlineſs, with good Works,</hi> 1 Tim. 2.9, 10.</p>
+            <p>And likewiſe <hi>Peter</hi> in his general Epiſtle, ſaith to the Women whoſe Adorning, <hi>Let it not be that outward Adorning of Platting the Hair, and of wearing of Gold, and of putting on of Apparel, but let it be the hidden Man of the Heart, in that which is not Corruptible,
+<pb facs="tcp:205392:5"/>even the Ornament of a meek and quiet Spirit, which is in the ſight of God of a great price; for after this manner in the Old time, the Holy Women who truſted in God, Adorned themſelves, being in Subjection unto their own Husbands,</hi> 1. Pet. 3.3, 4, 5.</p>
+            <p>Here you may ſee both the Prophets and Apoſtles declared againſt the Pride and Haughtineſs of People<g ref="char:punc">▪</g> both in the Old and New Teſtament.</p>
+            <p>And the Apoſtle <hi>John</hi> ſaith in his firſt General Epiſtle to the Church of <hi>Chriſt, Love not the World, neither the things that are in the World; if any one love the World, the love of the Father is not in him; for all that is in the World, the Luſt of the Fleſh, the Luſt of the Eye, and the Pride of Life, is not of the Father, but is of the World, and the World Paſſeth away and the Luſt thereof, but he that doth the will of God, abideth for Ever,</hi> 1. John 2.2, 15.16, 17.</p>
+            <p>Now here you may ſee an expreſs Command to the true Chri<g ref="char:EOLhyphen"/>ſtians the Church of Chriſt, againſt the Love of the World, and the Things of the World, and the Luſt of the Eye, and the Luſt of the Fleſh, and the Pride of Life; and they that love the World, the love of the Father is not in them, and how that the World paſſeth away, and the Luſt thereof; and therefore love not the Luſt of the Eye, the Luſt of the Fleſh, and Pride of Life, which is not of the Father.</p>
+            <p>And do not moſt, or all Chriſtendom ſay the Lords Prayer, <hi>Our Father which art in Heaven, Hollowed be thy Name,</hi> &amp;c. and you that live in the Luſt of the Fleſh, and the Luſt of the Eyes, and the Pride of your Life, which is not of the Father which is in Heaven, but of the World that Paſſeth away, and the Luſt thereof; And is it not ſaid, the Devil is the King of Pride, and therefore do not do his Luſts, but he that doth the will of God, abi<g ref="char:EOLhyphen"/>deth for ever. And therefore conſider when you ſay, <hi>Our Father which art in Heaven, Hollowed be thy Name,</hi> &amp;c. when you live in thoſe things which are not of the Father, which is in Heaven, and daily Obey and love the Luſt of your Eye, the Luſt of your Fleſh and the Pride of your Life, which is not of the Father, but of the World: And the Apoſtle <hi>John</hi> tells you, <hi>He that loves the World, the love of the Father is not in him.</hi>
+            </p>
+            <closer>
+               <signed>G. F.</signed>
+            </closer>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:205392:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
